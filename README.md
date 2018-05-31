@@ -17,7 +17,7 @@ $ npm start
 ```
 
 ## Development
-
+ 
 ### Demo server
 
 You can start up a demo development server to see a demo of the rendered
