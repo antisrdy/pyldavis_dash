@@ -1,6 +1,8 @@
 # pyldavis-dash
 
-pyLDAvis to Dash. Once pyLDAvis data has been saved as a .html file, just extract the `var` section and pass it to the dash custom component
+pyLDAvis to Dash. Once pyLDAvis data has been saved as a .html file, just extract the `var` section and pass it to the dash custom component.
+
+Big thanks to [ngotchac](https://github.com/ngotchac)
 
 ## Dash
 
@@ -17,7 +19,7 @@ $ npm start
 ```
 
 ## Development
- 
+
 ### Demo server
 
 You can start up a demo development server to see a demo of the rendered
