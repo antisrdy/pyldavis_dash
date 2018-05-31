@@ -1,0 +1,5 @@
+include pyldavis_dash/bundle.js
+include pyldavis_dash/bundle.js.map
+include pyldavis_dash/metadata.json
+include README.md
+include LICENSE.md
